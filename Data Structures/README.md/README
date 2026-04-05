@@ -1,0 +1,70 @@
+# Data Structures in Python
+
+This project contains clean, beginner‑friendly implementations of core data structures and algorithms using Python.
+It is designed to demonstrate understanding of computer science fundamentals, problem‑solving, and code organization.
+
+## 📁 Project Structure
+data-structures-python/
+ │── src/ │
+     ├── dynamic_array.py │
+     ├── linked_list.py │
+     ├── stack.py │
+     ├── queue.py │
+     ├── sorting.py │
+     ├── binary_search.py │
+     ├── recursion_examples.py |
+ │── tests/ │
+    ├── test.py │
+ │── README.md │
+
+---
+## 🧱 Implemented Data Structures & Algorithms
+
+### 🔹 Dynamic Array
+- Resizable array similar to Python's built‑in list
+- Supports append, indexing, and automatic resizing
+
+### 🔹 Linked List
+- Singly linked list
+- Node creation, append, and traversal
+
+### 🔹 Stack
+- LIFO (Last‑In, First‑Out)
+- Push, pop, peek, and empty check
+
+### 🔹 Queue
+- FIFO (First‑In, First‑Out)
+- Enqueue, dequeue, and empty check
+
+### 🔹 Sorting Algorithms
+- Bubble Sort
+- Merge Sort
+
+### 🔹 Searching
+- Binary Search on sorted lists
+
+### 🔹 Recursion Examples
+- Factorial
+- Fibonacci
+
+---
+## ▶️ How to Run the Code
+You can run any file directly: python src/filename.py
+Example: python src/linkedList.py
+Or run the test file: python tests/test.py
+
+---
+## 🎯 Purpose of This Project
+
+This project demonstrates:
+- Understanding of core CS concepts
+- Ability to implement data structures from scratch
+- Clean, readable, well‑organized Python code
+- Preparation for technical interviews
+- Strong fundamentals for backend and software engineering roles
+
+---
+
+## 🧑‍💻 Author
+**MissIesha**
+Computer Science graduate focused on Python development and clean, maintainable code.
